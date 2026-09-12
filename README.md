@@ -32,7 +32,6 @@ The device is split into a **main board** and two **remote sensor boards**, all 
 ```
 
 <img width="1280" height="977" alt="signal plan" src="https://github.com/user-attachments/assets/11f9840b-ff97-4dad-96f0-ce288ca9b289" />
-<img width="1280" height="960" alt="hardware plan" src="https://github.com/user-attachments/assets/5691c7a4-9aa9-455f-9233-7b676633d061" />
 
 
 - **Main Board** – `ATmega640V` running custom bare-metal firmware. Reads the AFE4490 (SpO₂/HR) over SPI, receives temperature/humidity and respiration data over UART from the two satellite boards, evaluates old vs. new readings, stores records in EEPROM, drives the OLED status display and buzzer/LED alerts, and forwards data to an ESP-style Wi-Fi module for cloud upload.
