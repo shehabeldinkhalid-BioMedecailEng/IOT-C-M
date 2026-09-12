@@ -1,4 +1,3 @@
-<img width="960" height="836" alt="s-l960" src="https://github.com/user-attachments/assets/46598137-333c-43d3-ae6d-2dee548a2b52" />
 # IOT-C-M
 IoT-based patient monitoring system — ATmega640 main board + two Arduino satellite boards tracking temperature/humidity, respiration rate, and SpO₂/HR, with EEPROM/SD logging, OLED display, buzzer/LED alerts, and Wi-Fi cloud upload.
 
@@ -214,8 +213,14 @@ https://github.com/user-attachments/assets/2f4ea03b-985b-4d97-9e3d-c5e1ce307569
 
 ## Components
 <img width="300" height="257" alt="ESP8266-Pinout-Datasheet-Features-Applications" src="https://github.com/user-attachments/assets/3d0710b7-2082-493a-8505-2d45a28ac2e0" />
+
+
 <img width="640" height="640" alt="ebc49d2e-4101-44ae-a59b-a85bcd83dce8 jpg_640xaf" src="https://github.com/user-attachments/assets/a0f5ba7c-afac-4605-884e-38bb346c7037" />
+
+
 <img width="1080" height="1080" alt="micro-sd-card-reader-module-1080x1080" src="https://github.com/user-attachments/assets/e90571c0-cabe-4c44-86fa-a3d636c119eb" />
+
 <img width="1280" height="1807" alt="wBmJ_PfYHnVpn3hWxv_Vp95CRw0hmS5oX5IOHAfVogSH7FYaPFmR9_2qYXQdrmbMLL78nrRo5BT5iXaap_3y7MLNDcMkxpoPk1aMXQIEGPzkhNC15CxS3st8pKcBenO73hsQDi6bbr1-TmQ_RH_B9-SjPX3-XvVWXoML5ny4ZGpz3wQkDSPshbWzgMhxRKcC" src="https://github.com/user-attachments/assets/0ea48ef4-c47e-4f3d-9079-306086f0a97d" />
 
+<img width="960" height="836" alt="s-l960" src="https://github.com/user-attachments/assets/46598137-333c-43d3-ae6d-2dee548a2b52" />
 
