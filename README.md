@@ -1,5 +1,3 @@
-<img width="976" height="800" alt="magic_edit#TUFISzZIQV8zcmsjMSM3OWRkM2ZlZDY3NWY5ODE0ODM1MGVkMjEzNGI5MDRiNSM5NzYjI1RSQU5TRk9STUFUSU9OX1JFUVVFU1Q" src="https://github.com/user-attachments/assets/87eb16a1-b67f-4ca7-b6d7-789df967cc92" />
-
 # IOT-C-M
 IoT-based patient monitoring system — ATmega640 main board + two Arduino satellite boards tracking temperature/humidity, respiration rate, and SpO₂/HR, with EEPROM/SD logging, OLED display, buzzer/LED alerts, and Wi-Fi cloud upload.
 
