@@ -1,0 +1,12 @@
+DR-SW
+--------------------------
+I2C
+SPI
+UART
+TIMER
+GPIO
+WDT
+EXT_INT
+ADC
+EEPROM
+---------------------------
